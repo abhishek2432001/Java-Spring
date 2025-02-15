@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-Learning/ExecutorFramework/ExecutorFramework.iml" filepath="$PROJECT_DIR$/Java-Learning/ExecutorFramework/ExecutorFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Spring.iml" filepath="$PROJECT_DIR$/.idea/Java-Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Learning/LearnCollections/LearnCollections.iml" filepath="$PROJECT_DIR$/Java-Learning/LearnCollections/LearnCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Learning/Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/Java-Learning/Multithreading/Multithreading.iml" />
+    </modules>
+  </component>
+</project>
